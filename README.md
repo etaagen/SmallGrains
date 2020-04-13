@@ -1,2 +1,2 @@
 # SmallGrains
-We are the Cornell Small Grains Grad Students
+Repository for all open source lab material from my time in the Cornell Small Grains lab
