@@ -1,2 +1,2 @@
 # SmallGrains
-demo
+We are the Cornell Small Grains Grad Students
